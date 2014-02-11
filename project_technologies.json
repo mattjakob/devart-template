@@ -16,7 +16,7 @@
             "nodejs",
             "webgl",
             "openframeworks",
-            "opencv",
+            "opencv"
         ]
     },
     "themes": [
