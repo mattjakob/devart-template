@@ -1,5 +1,4 @@
-# Project Title
-DYNAMICS IO
+# DYNAMICS IO
 
 ## Authors
 - Matt Jakob - https://github.com/mattjakob
