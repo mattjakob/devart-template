@@ -1,16 +1,34 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "bigquery"
+            "maps"
+            "flickr"
+            "prediction"
+
         ],
         "platforms": [
-            "insert platforms"
+            "arduino"
+            "PIC microcontroller"
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "nodejs"
+            "webgl"
+            "openframeworks"
+            "opencv"
+            "kinect"
+            "threejs"
+            "MPLAB"
+
         ]
     },
     "themes": [
-        "insert themes"
+        "AI"
+        "robotics"
+        "generative"
+        "complexity"
+        "automata"
+        "synthetic_psycology"
     ]
 }
