@@ -10,17 +10,13 @@
         "platforms": [
             "arduino",
             "PIC microcontroller",
-            "windows"
+            "chrome"
         ],
         "toolkits": [
             "nodejs",
             "webgl",
             "openframeworks",
             "opencv",
-            "kinect",
-            "threejs",
-            "MPLAB"
-
         ]
     },
     "themes": [
