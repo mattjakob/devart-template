@@ -1,34 +1,34 @@
 {
     "technologies": {
         "apis": [
-            "bigquery"
-            "maps"
-            "flickr"
+            "bigquery",
+            "maps",
+            "flickr",
             "prediction"
 
         ],
         "platforms": [
-            "arduino"
-            "PIC microcontroller"
+            "arduino",
+            "PIC microcontroller",
             "windows"
         ],
         "toolkits": [
-            "nodejs"
-            "webgl"
-            "openframeworks"
-            "opencv"
-            "kinect"
-            "threejs"
+            "nodejs",
+            "webgl",
+            "openframeworks",
+            "opencv",
+            "kinect",
+            "threejs",
             "MPLAB"
 
         ]
     },
     "themes": [
-        "AI"
-        "robotics"
-        "generative"
-        "complexity"
-        "automata"
+        "AI",
+        "robotics",
+        "generative",
+        "complexity",
+        "automata",
         "synthetic_psycology"
     ]
 }
